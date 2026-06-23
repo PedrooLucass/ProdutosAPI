@@ -1,4 +1,4 @@
-package io.github.cursodsousa.produtosapi;
+package studing.ProdutosAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
